@@ -36,6 +36,13 @@ const ArticlePage: React.FC = () => {
           </p>
         </div>
       </div>
+
+
+      
+
+
+
+
     </Container>
   );
 };
