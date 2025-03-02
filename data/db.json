@@ -1,0 +1,18 @@
+{
+    "articles": [{
+    "id": 1,
+    "title": "la troisième guerre",
+    "content": "La Troisième Guerre est un film réalisé par Giovanni Aloi avec Anthony Bajon, Karim Leklou. Synopsis : Un jeune banlieusard en galère accepte de conduire un taxi pour une société de location de véhicules. Il découvre une guerre des gangs qui sévit dans la capitale et se retrouve contraint de prendre part à la lutte."
+},
+
+{
+    "id": 2,
+    "title": "la destin de republique Jomhouri d'islamique",
+    "content": "La République islamique d'Iran est un régime politique théocratique dirigé par un guide suprême, l'ayatollah Ali Khamenei, qui détient le pouvoir exécutif et législatif. Le président de la République islamique d'Iran est élu par le peuple pour un mandat de quatre ans et est chargé de la gestion des affaires courantes du pays."
+}, 
+{
+    "id": 3,
+    "title": "la guerre des gangs",
+    "content": "La guerre des gangs est un phénomène qui se produit lorsque des groupes criminels rivaux s'affrontent pour le contrôle d'un territoire ou d'un marché illicite. Ces affrontements peuvent prendre différentes formes, allant de simples bagarres à des fusillades"}
+]
+}
